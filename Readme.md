@@ -1,4 +1,16 @@
 ```
-docker-compose build
 docker-compose run app
+```
+
+Sample output:
+```
+Compile...
+Waiting mariadb:3306...
+OK !
+Run...
+Connecting to a selected database...
+Connected database successfully...
+10.9.2-MariaDB-1:10.9.2+maria~ubu2204
+Done.
+Goodbye!
 ```
